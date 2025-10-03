@@ -95,26 +95,5 @@ npm run start
 
 ---
 
-## 📌 Comandos Git
-
-### Primeiro push (caso o repositório seja novo)
-```bash
-git init
-git add .
-git commit -m "Primeiro commit - API de filmes"
-git branch -M main
-git remote add origin https://github.com/seu-usuario/seu-repo.git
-git push -u origin main
-```
-
-### Para atualizar o repositório
-```bash
-git add .
-git commit -m "Atualização do projeto"
-git push origin main
-```
-
----
-
 ## 📜 Licença
 Este projeto é de uso livre para estudos.
